@@ -11,6 +11,17 @@
         <artifactId>CodeMind_Microservices</artifactId>
         <version>0.0.1-SNAPSHOT</version>
     </parent>
+
+<!--    <artifactId>CodeMind-Model</artifactId>-->
+
+    <dependencies>
+        <dependency>
+            <groupId>com.xly.codemind</groupId>
+            <artifactId>CodeMind-Common</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
+
     <properties>
         <java.version>1.8</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
