@@ -1,6 +1,7 @@
 package com.xly.codemind.codemindmodel.model.dto.question;
 
-import com.xly.codemind.common.PageRequest;
+
+import com.xly.codemind.codemindcommon.common.PageRequest;
 import lombok.Data;
 import lombok.EqualsAndHashCode;
 
